@@ -31,7 +31,7 @@ The Usage of this project is a resource to generate random password for use in c
 
 
 
-  ![Prework-Study-Guide](./Assets/README_01.png)
+  ![Prework-Study-Guide](./Assets/README_02.png)
 
 
 ## License
